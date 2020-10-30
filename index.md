@@ -1,10 +1,4 @@
-## Welcome to my portfolio site
-<!--
-You can use the [editor on GitHub](https://github.com/jamesfranklinnetsec/githubpagestest/edit/gh-pages/index.md) to maintain and preview the content for your 
-website in Markdown files.
--->
-
-source code at [here](https://github.com/jamesfranklinnetsec/githubpagestest/index.md
+source code at [here](https://github.com/jamesfranklinnetsec/githubpagestest/
 I'm using github pages for hosting.
 
 ### About me
