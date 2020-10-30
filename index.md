@@ -1,7 +1,10 @@
 ## Welcome to my portfolio site
 
-- test
-- test
+* test
+* test
+
+** test2
+** test2
 
 You can use the [editor on GitHub](https://github.com/jamesfranklinnetsec/githubpagestest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
