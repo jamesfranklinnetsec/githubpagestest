@@ -28,6 +28,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+  - List item 2
 
 1. Numbered
 2. List
