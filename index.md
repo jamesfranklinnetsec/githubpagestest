@@ -10,6 +10,10 @@ I'm using github pages for hosting.
 ### About me
 I'm James Franklin, I'm currently a 3rd year network security student at TAFE NSW. I'm 23 years old, I love technology, history, hacking things, culture, memes, and I like the internet so much I might be a completely digital being.
 
+### my workspaces
+* [gitlab](https://www.gitlab.com/jamesfranklinnetsec)
+* [github](https://www.github.com/jamesfranklinnetsec)
+
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/james-franklin-netsec/) -- I like using this, send me a message!
 * [james@whitespacetech.com.au](mailto:james@whitespacetech.com.au) -- send me your unsolicited job offers here. 
