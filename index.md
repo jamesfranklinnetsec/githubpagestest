@@ -22,4 +22,6 @@ LinkedIn isn't very good at showing off my tech projects that so thats what this
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 ### Projects
-* raspberry-pi phone: 
+* [raspberry-pi phone](https://jamesfranklinnetsec.github.io/githubpagestest/)
+* [homelab](https://lab.jamesfranklin.tech)
+* [homelab mirror link](https://lab.jf.rs)
