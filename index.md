@@ -10,10 +10,9 @@ I'm James Franklin, I'm currently a 3rd year network security student at TAFE NS
 
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/james-franklin-netsec/) -- I like using this, send me a message!
-* [email - james@whitespacetech.com.au] (mailto:james@whitespacetech.com.au)
-Heres [my linkedin](https://www.linkedin.com/in/james-franklin-netsec/) if you care, it has more of my qualifications on it, but I'm using this site to show off projects I made with some proof. LinkedIn isn't very good at showing off things like that so thats what this is for. Having a website gives you full freedom, although I really like LinkedIn. If I sent you here and you're an employer, I like being messaged on LI and I take emails at mailto:james@whitespacetech.com.au
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [email - james@whitespacetech.com.au] (mailto:james@whitespacetech.com.au) -- send me your unsolicited job offers here. 
+LinkedIn isn't very good at showing off my tech projects that so thats what this site is for. Having a website gives you full freedom, although I really like using LinkedIn, so check out my profile :)
+//Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### M
 ### Markdown
