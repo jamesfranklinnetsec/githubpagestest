@@ -25,3 +25,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * [raspberry-pi phone](https://jamesfranklinnetsec.github.io/githubpagestest/)
 * [homelab](https://lab.jamesfranklin.tech)
 * [homelab mirror link](https://lab.jf.rs)
+* [documenting my cloud](https://jft.atlassian.net/wiki/home)
+* [my cloud's roadmap](https://jft.atlassian.net/jira/software/projects/CIF/boards/1) 
