@@ -18,7 +18,8 @@ I'm James Franklin, I'm currently a 3rd year network security student at TAFE NS
 * [LinkedIn](https://www.linkedin.com/in/james-franklin-netsec/) -- I like using this, send me a message!
 * [james@whitespacetech.com.au](mailto:james@whitespacetech.com.au) -- send me your unsolicited job offers here. 
 LinkedIn isn't very good at showing off my tech projects that so thats what this site is for. Having a website gives you full freedom, although I really like using LinkedIn, so check out my profile :)
-//Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<!-- 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-->
 ### Projects
 * raspberry-pi phone: 
