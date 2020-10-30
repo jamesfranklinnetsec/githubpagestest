@@ -9,6 +9,8 @@ I'm using github pages for hosting.
 I'm James Franklin, I'm currently a 3rd year network security student at TAFE NSW. I'm 23 years old, I love technology, history, hacking things, culture, memes, and I like the internet so much I might be a completely digital being.
 
 ### Contact
+-[Linked.In] (https://www.linkedin.com/in/james-franklin-netsec/) -- I like using this, send me a message!
+-[email - james@whitespacetech.com.au] (mailto:james@whitespacetech.com.au)
 Heres [my linkedin](https://www.linkedin.com/in/james-franklin-netsec/) if you care, it has more of my qualifications on it, but I'm using this site to show off projects I made with some proof. LinkedIn isn't very good at showing off things like that so thats what this is for. Having a website gives you full freedom, although I really like LinkedIn. If I sent you here and you're an employer, I like being messaged on LI and I take emails at mailto:james@whitespacetech.com.au
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
